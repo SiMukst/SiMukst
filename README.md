@@ -10,7 +10,7 @@ Outside data science and machine learning, I'm learning:
 
 #### 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/mukti-setyaji/)
+- [LinkedIn](https://www.linkedin.com/in/simukst/)
 
 #### ⚡ Fun fact
 
