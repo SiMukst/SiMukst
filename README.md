@@ -5,6 +5,7 @@ I'm a data analyst who aspire to become a data scientist. I'm passionate about d
 #### 🌱 I’m currently learning
 
 Outside data science and machine learning, I'm learning:
+- UI & UX
 - Django
 - React
 
